@@ -75,7 +75,7 @@ Please add yours with the following format:
 
 ### M
 
-- MANDIRI TUNAS FINANCE - Full - [Android](https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en) [iOS](https://apps.apple.com/my/app/mtf-go/id1123593855)
+- MTF GO - Full - [Android](https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en) [iOS](https://apps.apple.com/my/app/mtf-go/id1123593855)
 
 ### N
 
